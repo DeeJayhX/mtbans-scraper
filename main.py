@@ -75,7 +75,7 @@ for row in rows:
 
     # Extract the ban reason(s) if present
     # TODO: Not yet implemented, will likely require a change to selenium, thanks to vue
-    ban_reasons = []
+    ban_records = []
     # if ban_count_cell:
     #     ban_count_link = ban_count_cell.find('a')
     #     ban_count_link_url = f"{url}{ban_count_link.get('href')}"
@@ -85,7 +85,7 @@ for row in rows:
     #     ban_count_link_table = ban_count_link_soup.find('table', {'id': 'bansview-table'})
     #     ban_count_link_rows = ban_count_link_table.find('tbody').find_all('tr')
     #     for ban_count_link_row in ban_count_link_rows:
-    #         ban_reasons.append({
+    #         ban_records.append({
     #             'banned_by': ban_count_link_row.find_all('td')[0].get_text(strip=True),
     #             'server_name': ban_count_link_row.find_all('td')[1].get_text(strip=True),
     #             'issued': ban_count_link_row.find_all('td')[2].get_text(strip=True),
@@ -98,7 +98,7 @@ for row in rows:
         'user_steam_id': user_steam_id,
         'last_banned': last_banned,
         'ban_count': ban_count,
-        'ban_reasons': ban_reasons
+        'ban_records': ban_records
     })
 
 # Print the extracted data

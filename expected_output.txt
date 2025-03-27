@@ -1,11 +1,11 @@
-{'user_name': 'gallahad', 'user_steam_id': '76561198146526151', 'last_banned': '27/03/2025 14:28', 'ban_count': '4 bans', 'ban_reasons': []}
-{'user_name': 'monkeyfucker', 'user_steam_id': '76561198145853335', 'last_banned': '26/03/2025 12:28', 'ban_count': '5 bans', 'ban_reasons': []}
-{'user_name': 'Themself', 'user_steam_id': '76561198356626724', 'last_banned': '02/02/2025 16:19', 'ban_count': '4 bans', 'ban_reasons': []}
-{'user_name': 'The Judge', 'user_steam_id': '76561198039573527', 'last_banned': '02/02/2025 16:19', 'ban_count': '3 bans', 'ban_reasons': []}
-{'user_name': 'BeetlePimp', 'user_steam_id': '76561198099634384', 'last_banned': '02/02/2025 16:19', 'ban_count': '1 ban', 'ban_reasons': []}
-{'user_name': 'gazyp_23', 'user_steam_id': '76561198428260837', 'last_banned': '02/02/2025 16:19', 'ban_count': '2 bans', 'ban_reasons': []}
-{'user_name': 'CapyBaraCuda', 'user_steam_id': '76561198173175709', 'last_banned': '02/02/2025 16:19', 'ban_count': '2 bans', 'ban_reasons': []}
-{'user_name': 'Rusty Shackleford', 'user_steam_id': '76561197995691597', 'last_banned': '02/02/2025 16:19', 'ban_count': '2 bans', 'ban_reasons': []}
-{'user_name': 'michalxdd', 'user_steam_id': '76561198878989045', 'last_banned': '02/02/2025 16:19', 'ban_count': '2 bans', 'ban_reasons': []}
-{'user_name': '5DsParentsHome', 'user_steam_id': '76561198113238531', 'last_banned': '02/02/2025 16:19', 'ban_count': '2 bans', 'ban_reasons': []}
-{'user_name': 'SpaceMan Spiff', 'user_steam_id': '76561198030978882', 'last_banned': '02/02/2025 16:19', 'ban_count': '1 ban', 'ban_reasons': []}
+{'user_name': 'gallahad', 'user_steam_id': '76561198146526151', 'last_banned': '27/03/2025 14:28', 'ban_count': '4 bans', 'ban_records': []}
+{'user_name': 'monkeyfucker', 'user_steam_id': '76561198145853335', 'last_banned': '26/03/2025 12:28', 'ban_count': '5 bans', 'ban_records': []}
+{'user_name': 'Themself', 'user_steam_id': '76561198356626724', 'last_banned': '02/02/2025 16:19', 'ban_count': '4 bans', 'ban_records': []}
+{'user_name': 'The Judge', 'user_steam_id': '76561198039573527', 'last_banned': '02/02/2025 16:19', 'ban_count': '3 bans', 'ban_records': []}
+{'user_name': 'BeetlePimp', 'user_steam_id': '76561198099634384', 'last_banned': '02/02/2025 16:19', 'ban_count': '1 ban', 'ban_records': []}
+{'user_name': 'gazyp_23', 'user_steam_id': '76561198428260837', 'last_banned': '02/02/2025 16:19', 'ban_count': '2 bans', 'ban_records': []}
+{'user_name': 'CapyBaraCuda', 'user_steam_id': '76561198173175709', 'last_banned': '02/02/2025 16:19', 'ban_count': '2 bans', 'ban_records': []}
+{'user_name': 'Rusty Shackleford', 'user_steam_id': '76561197995691597', 'last_banned': '02/02/2025 16:19', 'ban_count': '2 bans', 'ban_records': []}
+{'user_name': 'michalxdd', 'user_steam_id': '76561198878989045', 'last_banned': '02/02/2025 16:19', 'ban_count': '2 bans', 'ban_records': []}
+{'user_name': '5DsParentsHome', 'user_steam_id': '76561198113238531', 'last_banned': '02/02/2025 16:19', 'ban_count': '2 bans', 'ban_records': []}
+{'user_name': 'SpaceMan Spiff', 'user_steam_id': '76561198030978882', 'last_banned': '02/02/2025 16:19', 'ban_count': '1 ban', 'ban_records': []}
